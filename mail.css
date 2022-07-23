@@ -4,8 +4,25 @@ table{
     height :350px;
     background-color: blanchedalmond;
     font-size: 20px;
-
+ margin: 20px;
 }
 td{
     text-align: center;
+}
+th{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: larger;
+
+}
+tr{
+    border-style: groove;
+    border-color: rgb(10, 245, 186);
+    border-radius: 50px ;
+}
+td{
+    padding: centre;
+ font-weight: bold;
+ outline-width: 5px;
+ outline-color: rgb(138, 43, 226);
 }
